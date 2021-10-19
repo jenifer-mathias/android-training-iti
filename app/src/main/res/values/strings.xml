@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Iti</string>
+    <string name="see_receipt_of_payment_text">ver comprovante</string>
+    <string name="payment_done_title_text">pagamento feito</string>
+    <string name="payment_done_close_button_description">botão para fechar a janela pagamento realizado</string>
+    <string name="value_of_payment_txt"><b>R$ 1,00</b> \n para <b>JENIFER MATHIAS</b></string>
+    <string name="payment_done_value">R$ 1,00</string>
+    <string name="payment_done_transfer_recipient">Jenifer Mathias</string>
+    <string name="payment_done_share_value_with_someone">dividir este valor com alguém</string>
+    <string name="payment_done_for">para</string>
 </resources>
